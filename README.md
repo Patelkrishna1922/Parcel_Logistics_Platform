@@ -22,4 +22,9 @@ A full-stack logistics management web application designed to streamline parcel 
 | Frontend    | HTML, CSS, Bootstrap |
 | Backend     | PHP                  |
 | Database    | MySQL                |
-| Server Tool | XAMPP (Apache + MySQL) |
+| Server Tool | XAMPP (Apache + MySQL)|
+
+## 🎬 Demo Video
+
+▶️ [Click here to view the project demo](ParcelLogisticDemo.mp4)
+
